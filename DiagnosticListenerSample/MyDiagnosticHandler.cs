@@ -3,7 +3,7 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Http;
 
-namespace WebApplication216
+namespace DiagnosticListenerSample
 {
     public class MyDiagnosticHandler : HostingDiagnosticHandler
     {
